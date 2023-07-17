@@ -5,7 +5,7 @@ go 1.20
 require (
 	github.com/akrylysov/pogreb v0.10.1
 	github.com/bits-and-blooms/bloom/v3 v3.5.0
-	github.com/boss-net/goutils v0.0.3
+	github.com/boss-net/goutils v0.0.5
 	github.com/hashicorp/golang-lru/v2 v2.0.4
 	github.com/pkg/errors v0.9.1
 	github.com/rs/xid v1.5.0
@@ -20,7 +20,7 @@ require (
 	github.com/aymerick/douceur v0.2.0 // indirect
 	github.com/bits-and-blooms/bitset v1.8.0 // indirect
 	github.com/davecgh/go-spew v1.1.1 // indirect
-	github.com/golang/snappy v0.0.0-20180518054509-2e65f85255db // indirect
+	github.com/golang/snappy v0.0.4 // indirect
 	github.com/gorilla/css v1.0.0 // indirect
 	github.com/microcosm-cc/bluemonday v1.0.24 // indirect
 	github.com/pmezard/go-difflib v1.0.0 // indirect
@@ -32,7 +32,7 @@ require (
 	github.com/tidwall/pretty v1.2.0 // indirect
 	github.com/tidwall/rtred v0.1.2 // indirect
 	github.com/tidwall/tinyqueue v0.1.1 // indirect
-	golang.org/x/net v0.10.0 // indirect
-	golang.org/x/sys v0.9.0 // indirect
+	golang.org/x/net v0.12.0 // indirect
+	golang.org/x/sys v0.10.0 // indirect
 	gopkg.in/yaml.v3 v3.0.1 // indirect
 )
