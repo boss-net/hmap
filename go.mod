@@ -4,7 +4,7 @@ go 1.20
 
 require (
 	github.com/akrylysov/pogreb v0.10.1
-	github.com/bits-and-blooms/bloom/v3 v3.5.0
+	github.com/bits-and-blooms/bloom/v3 v3.6.0
 	github.com/boss-net/goutils v0.0.5
 	github.com/hashicorp/golang-lru/v2 v2.0.4
 	github.com/pkg/errors v0.9.1
@@ -18,7 +18,7 @@ require (
 require (
 	github.com/asaskevich/govalidator v0.0.0-20230301143203-a9d515a09cc2 // indirect
 	github.com/aymerick/douceur v0.2.0 // indirect
-	github.com/bits-and-blooms/bitset v1.8.0 // indirect
+	github.com/bits-and-blooms/bitset v1.10.0 // indirect
 	github.com/davecgh/go-spew v1.1.1 // indirect
 	github.com/golang/snappy v0.0.4 // indirect
 	github.com/gorilla/css v1.0.0 // indirect
